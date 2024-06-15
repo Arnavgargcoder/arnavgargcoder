@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **node JS**
 
-- 💬 Ask me about **c**
+- 💬 Ask me about **C language**
 
 - 📫 How to reach me **arnav2004garg@gmail.com**
 - 🚀 portfolio **https://arnavgargcoder.github.io/**
