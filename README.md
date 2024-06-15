@@ -10,7 +10,7 @@
 - 💬 Ask me about **c**
 
 - 📫 How to reach me **arnav2004garg@gmail.com**
-- portfolio****
+- 🚀 portfolio **https://arnavgargcoder.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
